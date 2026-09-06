@@ -6,6 +6,20 @@ A React component for practicing linear algebra concepts relevant to GATE DA (Da
 
 - [`linear-algebra-gate-da.jsx`](./linear-algebra-gate-da.jsx) — the main component.
 
+## Screenshots
+
+**Home — topic dashboard (11 chapters, 56 topics)**
+
+![Home dashboard](./screenshots/home.png)
+
+**Topic view — notes, formulas, solved example, quick-check quiz**
+
+![Topic view](./screenshots/topic.png)
+
+**Interactive visual tool — live span/linear-combination plot**
+
+![Interactive visual tool](./screenshots/interactive-visual.png)
+
 ## Usage
 
 This component depends on `react` and `lucide-react`. Drop it into a React project (e.g. Vite or Create React App) that has those installed, and render the exported component.
